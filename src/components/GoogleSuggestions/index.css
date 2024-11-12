@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.image {
+  height: 120px;
+  width: 90px;
+}
+.search-icon {
+  height: 20px;
+  width: 20px;
+  margin: 10px;
+}
+.search-balance {
+  display: flex;
+  flex-direction: row;
+}
+.input {
+  border-width: 0px;
+  border-color: white;
+}
+.bg-container {
+  background-color: white;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.card-container {
+  background-color: white;
+  margin: 10px;
+  padding: 3px;
+  border: shadow;
+}
